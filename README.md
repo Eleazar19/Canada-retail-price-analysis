@@ -51,6 +51,8 @@ Power BI: Used for Data cleaning, Data modeling, Data visualization, and further
 - Conduct a localized market assessment in Province 11 to identify the factors contributing to the price increase of egg. This may include examining supply chain disruptions, transportation costs, demand fluctuations, or regulatory issues.   
 
 
- ## Conclusion
+ ## Conclusion:
 
-Having successfully discovered the key cause of customer churn and other problems affecting revenue, the business should act quickly in tackling these areas of concern inother to prevent further loss of her loyal customers-maintaining a stable reveune inflow.  
+The unbending importance of product price can not be overmphasized when it has to do with the buying ability of consumer, knowing this, indepth attention should be given to the factors that determine prices of product, making sure this prices remain within the buying power of the consumers.
+
+
