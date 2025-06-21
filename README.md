@@ -53,6 +53,6 @@ Power BI: Used for Data cleaning, Data modeling, Data visualization, and further
 
  ## Conclusion:
 
-The unbending importance of product price can not be overmphasized when it has to do with the buying ability of consumer, knowing this, indepth attention should be given to the factors that determine prices of product, making sure this prices remain within the buying power of the consumers.
+The unbending importance of product price cannot be overemphasized when it comes to the buying ability of consumers. Knowing this, in-depth attention should be given to the factors that determine product prices, ensuring these prices remain within the buying power of consumers.
 
 
