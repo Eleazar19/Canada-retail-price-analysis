@@ -15,7 +15,7 @@ In Canadian provinces, product pricing and price changes remain a significant fa
 
 Excel: Used for creating fact and dimension tables, and Data investigation.
 
-Power BI: Used for Data cleaning, Data modeling, Data visualization, and further analysis.
+Power BI&Power query: Used for Data cleaning, Data modeling, Data visualization, and further analysis.
 
 
 ## Dashboard:
